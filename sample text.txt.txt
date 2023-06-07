@@ -1,5 +1,0 @@
-This is a sample file
-
-
-
-this is a sample line that I am creating.
